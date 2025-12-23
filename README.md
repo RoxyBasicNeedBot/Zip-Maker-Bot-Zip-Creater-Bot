@@ -119,8 +119,8 @@
 | `API_HASH` | Same page as above → Copy **App api_hash** |
 | `BOT_TOKEN` | Open [@BotFather](https://t.me/BotFather) on Telegram → `/newbot` → Copy the token |
 | `MONGODB_URI` | Create free cluster at [MongoDB Atlas](https://www.mongodb.com/atlas) → Connect → Copy connection string |
-| `OWNER_ID` | Open [@userinfobot](https://t.me/userinfobot) on Telegram → It will show your user ID |
-| `LOG_CHANNEL` | Create a channel → Add bot as admin → Forward any message to [@userinfobot](https://t.me/userinfobot) to get channel ID |
+| `OWNER_ID` | Open [@useridroxybot](https://t.me/useridroxybot) on Telegram → It will show your user ID |
+| `LOG_CHANNEL` | Create a channel → Add bot as admin → Forward any message to [@useridroxybot](https://t.me/useridroxybot) to get channel ID |
 
 ### 🔧 Configuration
 
